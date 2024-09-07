@@ -6,7 +6,9 @@ public class main {
         // System.out.println("Enter your name ");
         // String name= sc.next();
         // System.out.println(name + " is a good girl");
-        System.out.println("Enter a good name ");
+
+        System.out.println("Enter a full name from local repo ");
+       
         int num= sc.nextInt();
         System.out.println(num);
     }
