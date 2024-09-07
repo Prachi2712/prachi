@@ -24,9 +24,9 @@ public class practice {
     // System.out.println(myList);
 
     int [] marks= new int[3];
-    marks[0]=23;
-    marks[1]=43;
-    marks[2]=53;
+    marks[0]=24;
+    marks[1]=44;
+    marks[2]=55;
     
     for(int i=0;i<3;i++){
         System.out.println(marks[i]);
